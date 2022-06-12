@@ -1,5 +1,14 @@
+import Stories from "./Components/Stories";
+import Search from "./Components/Search";
+import "../src/App.css";
+
 function App() {
-  return <div className="App"></div>;
+  return (
+    <>
+      <Search />
+      <Stories />
+    </>
+  );
 }
 
 export default App;
