@@ -65,9 +65,10 @@ span {
 }
 
 .card-button a {
-  color: #92b4ec;
+  color: #4b86e6;
   font-weight: 400;
   font-size: 1.6rem;
+  text-decoration: none;
 }
 
 .card-button a:last-child {
@@ -100,7 +101,7 @@ button {
   padding: 0.8rem 2.2rem;
   border: none;
   font-size: 1.6rem;
-  background-color: #15133c;
+  background-color: #0f5edb;
   color: #ffffff;
   margin: 3rem;
   cursor: pointer;
